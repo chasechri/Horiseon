@@ -4,7 +4,15 @@
 
 For this project we are debugging the code for Horiseon website and simplify the html and css while keep it functioning as intended.
 
-![ ](./assets/images/horiseonscreenshot.png)
+![screenshot of website](./assets/images/horiseonscreenshot.png)
+
+## Tools used:
+
+HTML, CSS.
+
+## Link:
+
+https://chasechri.github.io/Horiseon-challenge-cc/
 
 ## Credits
 
